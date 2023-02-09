@@ -59,7 +59,7 @@
     }
     .backGambar{
       position: relative;
-      background-image: url("img/dashboard.jpg");
+      background-image: url("img/bgdashboard.jpg");
       background-size: cover;
       min-height: 513px;
     }

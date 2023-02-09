@@ -16,7 +16,7 @@ include "koneksi.php";
   <div class="row">
     <div class="col-5">
       <div class="card border-success shadow-lg mb-3">
-        <div class="card-header bg-transparent border-success text-primary"><b>CAFE BISA NGOPI</b></div>
+        <div class="card-header bg-transparent border-success text-primary"><b>CAFFHEN</b></div>
         <div class="card-body">
           <form action="" method="post" id="transaksiMenu">
             <input type="hidden" name="no_transaksi" id="no_transaksi">
