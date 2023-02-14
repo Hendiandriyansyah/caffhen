@@ -103,7 +103,7 @@
                         <th width="5%">No.</th>
                         <th>Nama Menu</th>
                         <th>Harga</th>
-                        <th>Qty</th>
+                        <th>Jumlah</th>
                         <th>Sub</th>
                         <?php
                         if ($jabatan == "Manajer") { ?>

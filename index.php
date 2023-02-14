@@ -35,7 +35,7 @@
 	  <div class="info-data" data-infodata="<?php if(isset($_SESSION['info'])){ echo $_SESSION['info']; } unset($_SESSION['info']); ?>"></div>
     <div class="container">
       <div class="row">
-        <div class="col-md-3 body-login">
+        <div class="col-md-4 body-login" >
           <div class="card p-4 bg-transparent border-0">
             <div class="text-center" >
               <!-- <h1 class="h4 text-dark mb-4">LOGIN</h1> -->
@@ -48,7 +48,7 @@
               <div class="form-group">
                 <input type="password" name="password" class="form-control form-control-sm" placeholder="Password" autocomplete="off" required>
               </div>
-              <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-lock"></i> Login</button>
+              <button type="submit" class="btn btn-sm" style="background-color: #562B08; margin-left: 90px; width: 120px;"><i class="fa fa-lock"></i> Login</button>
             </form>
           </div>
         </div>

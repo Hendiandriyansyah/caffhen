@@ -51,7 +51,7 @@ include "koneksi.php";
 
             <!-- Banyak / Qty -->
             <div class="input-group mb-1">
-              <span class="input-group-text lebar">Qty</span>
+              <span class="input-group-text lebar">Jumlah</span>
               <input type="text" name="qty" id="qty" required class="form-control form-control-sm text-right money angkaSemua" autocomplete="off" placeholder="Input Qty">
             </div>
 
@@ -85,7 +85,7 @@ include "koneksi.php";
                   <th scope="col">#</th>
                   <th scope="col">Name Menu</th>
                   <th scope="col">Harga</th>
-                  <th scope="col">Qty</th>
+                  <th scope="col">Jumlah</th>
                   <th scope="col">Subtotal</th>
                   <th scope="col">Aksi</th>
                 </tr>
