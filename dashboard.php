@@ -107,9 +107,9 @@
       <div class="row mt-5 pt-3">
         <div class="col-md-7 jumbotron m-5">
           <h1 class="display-5">ADMIN CAFFHEN</h1>
-          <p class="lead">UJI KOMPETENSI KEAHLIAN</p>
+          <p class="lead"></p>
           <hr class="hr" style="width:100%; margin-top: -10px">
-          <p class="smk">CAFFHEN 2023</p>
+          <p class="smk"></p>
         </div>
       </div>
       <?php  

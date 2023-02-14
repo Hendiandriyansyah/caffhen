@@ -15,7 +15,7 @@
   <style>
     body{
       /* Gambar Login */
-      background-image: url("img/login.jpg");
+      background-image: url("img/bglogin.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       /* Posisi Gambar */
@@ -48,7 +48,7 @@
               <div class="form-group">
                 <input type="password" name="password" class="form-control form-control-sm" placeholder="Password" autocomplete="off" required>
               </div>
-              <button type="submit" class="btn btn-sm" style="background-color: #562B08; margin-left: 90px; width: 120px;"><i class="fa fa-lock"></i> Login</button>
+              <button type="submit" class="btn btn-sm" style="background-color: #361500; margin-left: 90px; width: 120px;"><i class="fa fa-lock"></i> Login</button>
             </form>
           </div>
         </div>

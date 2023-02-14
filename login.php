@@ -22,7 +22,7 @@
 
   <div class="row">
     <div class="col-xl-10 table-responsive">
-      <button type="button" class="btn btn-primary btn-sm px-2 my-3" data-toggle="modal" data-target="#staticBackdrop" title="tambah data">
+      <button type="button" class="btn btn-sm"style="background-color: #361500; margin-left: 10px; width: 120px;" data-toggle="modal" data-target="#staticBackdrop" title="tambah data">
         <i class="fas fa-plus"></i>&nbsp;Tambah&nbsp;&nbsp;
       </button>
 
