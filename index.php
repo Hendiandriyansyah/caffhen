@@ -15,7 +15,7 @@
   <style>
     body{
       /* Gambar Login */
-      background-image: url("img/bglogin.jpg");
+      background-image: url("img/login.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       /* Posisi Gambar */
@@ -35,7 +35,9 @@
 	  <div class="info-data" data-infodata="<?php if(isset($_SESSION['info'])){ echo $_SESSION['info']; } unset($_SESSION['info']); ?>"></div>
     <div class="container">
       <div class="row">
-        <div class="col-md-4 body-login" >
+      <div class="col-md-5 body-login"style="
+              left: 325px;
+              top: 300px;">
           <div class="card p-4 bg-transparent border-0">
             <div class="text-center" >
               <!-- <h1 class="h4 text-dark mb-4">LOGIN</h1> -->
@@ -48,7 +50,7 @@
               <div class="form-group">
                 <input type="password" name="password" class="form-control form-control-sm" placeholder="Password" autocomplete="off" required>
               </div>
-              <button type="submit" class="btn btn-sm" style="background-color: #361500; margin-left: 90px; width: 120px;"><i class="fa fa-lock"></i> Login</button>
+              <button type="submit" class="btn btn-sm" style="background-color: #361500; margin-left: 130px; width: 120px;"><i class="fa fa-lock"></i> Login</button>
             </form>
           </div>
         </div>

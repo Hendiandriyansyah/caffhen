@@ -26,11 +26,11 @@
         </button>
       </div>
       <div class="modal-body">
-        Pilih "Logout" di bawah jika Anda siap untuk mengakhiri sesi Anda saat ini.
+        Pilih "Logout" di bawah untuk mengakhiri ini.
       </div>
       <div class="modal-footer">
         <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-        <a class="btn btn-primary" href="logout.php">Logout</a>
+        <a class="btn btn-danger" href="logout.php">Logout</a>
       </div>
     </div>
   </div>
