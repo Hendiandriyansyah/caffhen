@@ -35,7 +35,7 @@
           <tr>
             <td width='70%' align='CENTER' vertical-align='top'>
               <span style='color:black;'>
-                <b>Restoran Cafe Bisa Ngopi</b></br>JL Kartini No 2 Pati</span>
+                <b>CAFFHEN</b></br>JL BEKASI</span>
             </td>
           </tr>
           <tr>
